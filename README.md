@@ -1,5 +1,5 @@
 # book_recommendation
-This project is a semantic book recommendation system that uses natural language processing and vector search to find books based on meaning, context, and emotion rather than simple keyword matching. It was developed as an introductory machine learning project following the freeCodeCamp "Build a Semantic Book Recommender" course.
+This project is a semantic book recommendation system that uses natural language processing and vector search to find books based on meaning, context, and emotion rather than simple keyword matching. It was developed as an introductory machine learning project following the freeCodeCamp course.
 
 Technical Overview
 The system processes a dataset of book descriptions and maps them into a high-dimensional vector space, allowing for sophisticated retrieval based on user intent.
